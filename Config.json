@@ -1,10 +1,9 @@
 {
-   "Version":"19.5",
+   "Version":"19.9",
 "AppName":"teste apk",
    "abrirWebView":"https://fusiontempest.speedtestcustom.com",
    "ReleaseNotes":"Yumeko inovação",
    "UrlUpdate":"https://raw.githubusercontent.com/gustavo3419/pweb/refs/heads/main/Config.json",
-   "UpdateUrl":"https://paste.anasor.com/paste.php?raw&id=350694",
    "UrlAviso":"https://raw.githubusercontent.com/rodrigo12xd/sockslite/main/Conecta4g/SMS",
 
    "Sms":"https://bitbin.it/VUA5qC2E/raw/",
