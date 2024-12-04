@@ -1,5 +1,5 @@
 {
-   "Version":"13",
+   "Version":"14",
 "AppName":"",
    "abrirWebView":"https://fusiontempest.speedtestcustom.com",
    "ReleaseNotes":"Yumeko inovação",
@@ -115,7 +115,7 @@ Upgrade[crlf][crlf]",
       "Info": "Proxy"
       },
      {
-      "Name": "VIVO TURBO",
+      "Name": "VIVO gringo",
       "FLAG": "vivo",
       "Payload": "ACL wss://[app_host_proxy] HTTP/1.1[lf]Host: [rotate=api.digital.cname.vivo.com.br;api.digital.vivo.com.br;autenticaint.cname.vivo.com.br;autenticaint.vivo.com.br;auth.vivo.com.br;celular.vivo.com.br;gedoc.cname.vivo.com.br;lojaempresas.vivo.com.br;recarga.vivo.com.br][lf]Upgrade: Websocket[lf][split][lf]",
       "SNI": "null",
