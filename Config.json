@@ -1,5 +1,5 @@
 {
-   "Version":"17",
+   "Version":"18",
 "AppName":"",
    "abrirWebView":"https://fusiontempest.speedtestcustom.com",
    "ReleaseNotes":"Yumeko inovação",
@@ -104,7 +104,7 @@
          "Info":"Direct"
       },
       {
-      "Name": "VIVO crédito expirado",
+      "Name": "VIVO gringo",
       "FLAG": "br",
       "Payload": "GET / HTTP/1.1[crlf]Host: gustavo34.shop[crlf]Upgrade: Websocket[crlf]Connection:
 Upgrade[crlf][crlf]",
