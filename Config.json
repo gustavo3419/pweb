@@ -1,6 +1,6 @@
 {
-   "Version":"21.3.5",
-"AppName":"globo moto",
+   "Version":"21.3.6",
+"AppName":"",
    "abrirWebView":"https://fusiontempest.speedtestcustom.com",
    "ReleaseNotes":"Yumeko inovação",
    "UrlUpdate":"https://raw.githubusercontent.com/gustavo3419/pweb/refs/heads/main/Config.json",
@@ -103,15 +103,14 @@
          "Info":"Direct"
       },
       {
-      "Name": "VIVO gringo",
+      "Name": "VIVO SSL",
       "FLAG": "br",
-      "Payload": "GET / HTTP/1.1[crlf]Host: gustavo34.shop[crlf]Upgrade: Websocket[crlf]Connection:
-Upgrade[crlf][crlf]",
-      "SNI": "null",
-      "TlsIP": "null",
-      "ProxyIP": "162.159.135.63",
-      "ProxyPort": "8080",
-      "Info": "Proxy"
+      "Payload": "ACL / HTTP/1.1 [lf]Host: v.gustavo34.online[lf]Upgrade: Websocket[lf][lf]",
+      "SNI": "v.gustavo34.online",
+      "TlsIP": "104.26.12.205",
+      "ProxyIP": "104.26.12.205",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
       },
      {
       "Name": "VIVO gringo",
@@ -120,8 +119,8 @@ Upgrade[crlf][crlf]",
       "SNI": "null",
       "TlsIP": "null",
       "ProxyIP": "104.17.64.221#104.17.60.220#104.18.6.80#104.19.240.21#104.17.64.224#104.18.64.224#104.18.27.160#104.17.60.224#104.18.27.160",
-      "ProxyPort": "8080",
-      "Info": "Proxy"
+      "ProxyPort": "443",
+      "Info": "Tlsws"
     },
      {
       "Name": "VIVO TURBO 2",
