@@ -1,5 +1,5 @@
 {
-   "Version":"21.3.9",
+   "Version":"21.4.0",
 "AppName":"",
    "abrirWebView":"https://fusiontempest.speedtestcustom.com",
    "ReleaseNotes":"Yumeko inovação",
@@ -106,8 +106,8 @@
       "Name": "VIVO SSL",
       "FLAG": "br",
       "Payload": "ACL / HTTP/1.1 [lf]Host: v.gustavo34.online[lf]Upgrade: Websocket[lf][lf]",
-      "SNI": "v.gustavo34.online",
-      "TlsIP": "104.26.12.205",
+      "SNI": "104.26.12.205",
+      "TlsIP": "",
       "ProxyIP": "104.26.12.205",
       "ProxyPort": "443",
       "Info": "ssl"
