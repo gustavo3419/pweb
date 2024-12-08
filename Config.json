@@ -1,5 +1,5 @@
 {
-   "Version":"21.3.6",
+   "Version":"21.3.7",
 "AppName":"",
    "abrirWebView":"https://fusiontempest.speedtestcustom.com",
    "ReleaseNotes":"Yumeko inovação",
@@ -46,7 +46,7 @@
       "TYPE": "PREMIUM",
       "FLAG": "fluke.png",
       "ServerIP": "152.67.62.175",
-      "PServerIP":"p.gustavo34.online",
+      "PServerIP":"v.gustavo34.online",
       "CheckUser": "http://chk.xplus.cloud/api/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -116,9 +116,9 @@
       "Name": "VIVO gringo",
       "FLAG": "vivo",
       "Payload": "ACL wss://[app_host_proxy] HTTP/1.1[lf]Host: [rotate=api.digital.cname.vivo.com.br;api.digital.vivo.com.br;autenticaint.cname.vivo.com.br;autenticaint.vivo.com.br;auth.vivo.com.br;celular.vivo.com.br;gedoc.cname.vivo.com.br;lojaempresas.vivo.com.br;recarga.vivo.com.br][lf]Upgrade: Websocket[lf][split][lf]",
-      "SNI": "null",
+      "SNI": "104.26.12.205",
       "TlsIP": "null",
-      "ProxyIP": "104.17.64.221#104.17.60.220#104.18.6.80#104.19.240.21#104.17.64.224#104.18.64.224#104.18.27.160#104.17.60.224#104.18.27.160",
+      "ProxyIP": "104.26.12.205#104.17.60.220#104.18.6.80#104.19.240.21#104.17.64.224#104.18.64.224#104.18.27.160#104.17.60.224#104.18.27.160",
       "ProxyPort": "443",
       "Info": "Tlsws"
     },
