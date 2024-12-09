@@ -1,5 +1,5 @@
 {
-   "Version":"21.5.3",
+   "Version":"21.5.4",
 "AppName":"",
    "abrirWebView":"https://fusiontempest.speedtestcustom.com",
    "ReleaseNotes":"Yumeko inovação",
@@ -48,7 +48,7 @@
       "ServerIP": "104.26.12.205",
       "PServerIP":"gg.gustavo34.online",
       "CheckUser": "http://152.67.62.175:5454/checkUser",
-      "ServerPort": "22",
+      "ServerPort": "443",
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
@@ -119,7 +119,7 @@
       "SNI": "[app_host_proxy]",
       "TlsIP": "[app_host]",
       "ProxyIP": "[app_host]",
-      "ProxyPort": "null",
+      "ProxyPort": "443",
       "Info": "Ssl"
     },
      {
