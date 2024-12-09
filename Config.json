@@ -1,5 +1,5 @@
 {
-   "Version":"21.4.9",
+   "Version":"21.5.1",
 "AppName":"",
    "abrirWebView":"https://fusiontempest.speedtestcustom.com",
    "ReleaseNotes":"Yumeko inovação",
@@ -279,11 +279,11 @@ Upgrade: websocket\r\n\r\n@@@[delay_split]ACL / HTTP/1.1[crlf]Host: [rotate=cdnj
       },
       {
          "Name":"VIVO",
-         "Payload":"ACL / HTTP/1.1[lf]Host:  [app_host_proxy]lf]Upgrade: Websocket[lf][split][lf]",
+         "Payload":"ACL / HTTP/1.1 [lf]Host: gg.gustavo34.online[lf]Upgrade: Websocket[lf][lf]",
          "SNI":"null",
          "TlsIP":"null",
-         "ProxyIP":"104.18.6.80#103.17.64.221#103.17.60.220#vigia.vivo.com.br#104.19.240.21#104.17.64.224#104.18.64.224#104.18.27.160#104.17.60.224#104.18.27.160",
-         "ProxyPort":"8080",
+         "ProxyIP":"104.26.12.205",
+         "ProxyPort":"80",
          "Info":"Proxy"
       },
       {
