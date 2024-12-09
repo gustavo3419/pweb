@@ -1,5 +1,5 @@
 {
-   "Version":"21.4.7",
+   "Version":"21.4.8",
 "AppName":"",
    "abrirWebView":"https://fusiontempest.speedtestcustom.com",
    "ReleaseNotes":"Yumeko inovação",
@@ -47,7 +47,7 @@
       "FLAG": "fluke.png",
       "ServerIP": "152.67.62.175",
       "PServerIP":"gg.gustavo34.online",
-      "CheckUser": "http://chk.xplus.cloud/api/checkUser",
+      "CheckUser": "http://152.67.62.175:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
@@ -115,7 +115,7 @@
      {
       "Name": "VIVO gringo",
       "FLAG": "vivo",
-      "Payload": "ACL / HTTP/1.1 [lf]Host: [app_host_proxy][lf]Upgrade: Websocket[lf][lf]",
+      "Payload": "GET / HTTP/1.1 [lf]Host: [app_host_proxy][lf]Upgrade: Websocket[lf][lf]",
       "SNI": "[app_host_proxy]",
       "TlsIP": "null",
       "ProxyIP": "104.26.12.205",
