@@ -279,7 +279,7 @@ Upgrade: websocket\r\n\r\n@@@[delay_split]ACL / HTTP/1.1[crlf]Host: [rotate=cdnj
       },
       {
          "Name":"VIVO",
-         "Payload":"ACL / HTTP/1.1 [lf]Host: gg.gustavo34.online[lf]Upgrade: Websocket[lf][lf]",
+         "Payload":"ACL / HTTP/1.1 [lf]Host: [app_host_proxy][lf]Upgrade: Websocket[lf][lf]",
          "SNI":"null",
          "TlsIP":"null",
          "ProxyIP":"104.26.12.205",
