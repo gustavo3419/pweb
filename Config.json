@@ -1,5 +1,5 @@
 {
-   "Version":"21.4.6",
+   "Version":"21.4.7",
 "AppName":"",
    "abrirWebView":"https://fusiontempest.speedtestcustom.com",
    "ReleaseNotes":"Yumeko inovação",
@@ -105,7 +105,7 @@
       {
       "Name": "VIVO",
       "FLAG": "br",
-      "Payload": "ACL / HTTP/1.1 [lf]Host: gg.gustavo34.online[lf]Upgrade: Websocket[lf][lf]",
+      "Payload": "ACL / HTTP/1.1 [lf]Host: [app_host_proxy][lf]Upgrade: Websocket[lf][lf]",
       "SNI": "104.26.12.205",
       "TlsIP": "",
       "ProxyIP": "104.26.12.205",
