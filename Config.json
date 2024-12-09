@@ -1,5 +1,5 @@
 {
-   "Version":"21.4.8",
+   "Version":"21.4.9",
 "AppName":"",
    "abrirWebView":"https://fusiontempest.speedtestcustom.com",
    "ReleaseNotes":"Yumeko inovação",
@@ -45,7 +45,7 @@
       "Name": "💥PREMIUM🌡💥",
       "TYPE": "PREMIUM",
       "FLAG": "fluke.png",
-      "ServerIP": "152.67.62.175",
+      "ServerIP": "104.26.12.205",
       "PServerIP":"gg.gustavo34.online",
       "CheckUser": "http://152.67.62.175:5454/checkUser",
       "ServerPort": "22",
@@ -117,8 +117,8 @@
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1 [lf]Host: [app_host_proxy][lf]Upgrade: Websocket[lf][lf]",
       "SNI": "[app_host_proxy]",
-      "TlsIP": "null",
-      "ProxyIP": "104.26.12.205",
+      "TlsIP": "[app_host]",
+      "ProxyIP": "[app_host]",
       "ProxyPort": "443",
       "Info": "Ssl"
     },
