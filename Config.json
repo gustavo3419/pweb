@@ -1,5 +1,5 @@
 {
-   "Version":"21.4.0",
+   "Version":"21.4.1",
 "AppName":"",
    "abrirWebView":"https://fusiontempest.speedtestcustom.com",
    "ReleaseNotes":"Yumeko inovação",
@@ -103,14 +103,14 @@
          "Info":"Direct"
       },
       {
-      "Name": "VIVO SSL",
+      "Name": "VIVO",
       "FLAG": "br",
-      "Payload": "ACL / HTTP/1.1 [lf]Host: v.gustavo34.online[lf]Upgrade: Websocket[lf][lf]",
+      "Payload": "ACL / HTTP/1.1 [lf]Host: gg.gustavo34.online[lf]Upgrade: Websocket[lf][lf]",
       "SNI": "104.26.12.205",
       "TlsIP": "",
       "ProxyIP": "104.26.12.205",
-      "ProxyPort": "443",
-      "Info": "ssl"
+      "ProxyPort": "80",
+      "Info": "Proxy"
       },
      {
       "Name": "VIVO gringo",
