@@ -1,5 +1,5 @@
 {
-   "Version":"21.5.4",
+   "Version":"21.5.5",
 "AppName":"",
    "abrirWebView":"https://fusiontempest.speedtestcustom.com",
    "ReleaseNotes":"Yumeko inovação",
@@ -47,7 +47,7 @@
       "FLAG": "fluke.png",
       "ServerIP": "104.26.12.205",
       "PServerIP":"gg.gustavo34.online",
-      "CheckUser": "http://152.67.62.175:5454/checkUser",
+      "CheckUser": "http://sshmanager.uleksv.xyz:3232/checkuser/84xWzxJm",
       "ServerPort": "443",
       "SSLPort": "443",
       "USER": "",
