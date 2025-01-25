@@ -1,10 +1,10 @@
 {
-   "Version":"21.6.7",
+   "Version":"21.6.8",
 "AppName":"",
    "abrirWebView":"https://fusiontempest.speedtestcustom.com",
    "ReleaseNotes":"Yumeko inovação",
    "UrlUpdate":"https://c.gustavo34.shop/update.php",   
-   "UrlUpdaty":"https://bitbin.it/qOZumD",
+   "UrlUpdaty":"https://raw.githubusercontent.com/gustavo3419/pweb/refs/heads/main/Config.json",
    "UpdateUrl":"https://raw.githubusercontent.com/gustavo3419/pweb/refs/heads/main/Config.json",
    "UrlAviso":"https://raw.githubusercontent.com/rodrigo12xd/sockslite/main/Conecta4g/SMS",
 
@@ -97,14 +97,14 @@
          "SNI":"null",
          "TlsIP":"null",
          "ProxyIP":"null",
-         "ProxyPort":"80",
+         "ProxyPort":"null",
          "Info":"Auto"
       },
       {
          "Name":"🥂  WIFI GRÁTIS 🍾",
          "Color":"#ff0000",
          "FLAG":"https://cdn-icons-png.flaticon.com/512/197/197484.png",
-         "BANDEIRA":"https://cdn-icons-png.flaticon.com/512/197/197484.png",
+         "BANDEIRA":"https://cdn-icons-png.flaticon.com/512/197/197484.png",,
          "Payload":"CONNECT [app_host] [protocol][crlf][crlf]",
          "SNI":"null",
          "TlsIP":"[app_host]",
@@ -348,7 +348,7 @@
          "SNI":"premium01.conecta4g.xyz",
          "TlsIP":"www.hbogo.com.br",
          "ProxyIP":"null",
-         "ProxyPort":"80",
+         "ProxyPort":"null",
          "Info":"Tlsws"
       }
    ]
