@@ -1,5 +1,5 @@
 {
-  "Version": 5,
+  "Version": 6,
   "PainelConecta5G": true,
   "ReleaseNotes": "noob sofree.",
   "UrlUpdate": "https://raw.githubusercontent.com/gustavo3419/pweb/refs/heads/main/Config.json",
@@ -43,13 +43,13 @@
     ],
     "Networks": [
         {
-            "Name": "👤 VIVO GCLOUD©",
+            "Name": "👤 VIVO teste",
             "FLAG": "vivo",
-            "Payload": "ACL / HTTP/1.1[crlf]Host: gustavo55.online[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
+            "Payload": "ACL / HTTP/1.1[crlf]Host: gugu55.online[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "104.18.27.160",
-            "ProxyPort": "80#8080",
+            "ProxyIP": "104.16.162.229",
+            "ProxyPort": "80",
             "SlowChave": "",
             "SlowNameServer": "",
             "SlowDns": "",
