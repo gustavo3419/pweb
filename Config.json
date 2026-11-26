@@ -1,5 +1,5 @@
 {
-  "Version": 6,
+  "Version": 7,
   "PainelConecta5G": true,
   "ReleaseNotes": "noob sofree.",
   "UrlUpdate": "https://raw.githubusercontent.com/gustavo3419/pweb/refs/heads/main/Config.json",
@@ -53,7 +53,7 @@
             "SlowChave": "",
             "SlowNameServer": "",
             "SlowDns": "",
-            "Info": "Tlsws"
+            "Info": "Proxy"
         },
         {
             "Name": "👤 VIVO GCLOUD-02 ©",
