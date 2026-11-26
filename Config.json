@@ -1,7 +1,7 @@
 {
-  "Version": 4,
+  "Version": 5,
   "PainelConecta5G": true,
-  "ReleaseNotes": "CONECTA5G v59<br>Atualização de estabilidade e melhorias de desempenho.",
+  "ReleaseNotes": "noob sofree.",
   "UrlUpdate": "https://raw.githubusercontent.com/gustavo3419/pweb/refs/heads/main/Config.json",
   "Sms": "https://painel.conecta5g.slimtv.one/sms?uuid=8475939f-7adc-4365-ba7d-c5a7fc298e32",
   "logoonline": "",
